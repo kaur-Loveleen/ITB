@@ -1,3 +1,1 @@
-hello 
-hi 
-bbye
+print("Hello ITB ")
